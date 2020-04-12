@@ -1,0 +1,17 @@
+{
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "Menlo for Powerline",
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "python.jediEnabled": false,
+    "python.dataScience.sendSelectionToInteractiveWindow": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.colorTheme": "Material Theme",
+    "go.gopath": "/Users/andy/go",
+    "go.gotoSymbol.includeGoroot": true,
+    "go.inferGopath": true,
+    "todo-tree.tree.showScanModeButton": false,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "explorer.confirmDragAndDrop": false
+}
